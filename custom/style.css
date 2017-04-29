@@ -1,5 +1,7 @@
 /**
- * Add any custom CSS here.
- *
- * This file will be loaded after all other theme stylesheets.
+@media screen and (min-width: 768px) {
+	.site-header .site-branding, .site-header .site-logo-anchor, .site-header .site-logo-link, .site-header .custom-logo-link {
+		width: 21%; /* Adjust this percentage up or down to make the logo larger or smaller. */
+	}
+}
  */
